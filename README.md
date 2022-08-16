@@ -44,5 +44,7 @@ Cada pasta deste repo possui um README.md com o enunciado do exercício e um tem
 [Aula 08 - Estruturas de repeticão - Lógica de Programação para Iniciantes | Labenu](https://www.youtube.com/watch?v=gUGQ4FYleQo)
 
 [for | MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
+
 [for...in | MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...in)
+
 [for...of | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
