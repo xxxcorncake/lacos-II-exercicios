@@ -1,4 +1,4 @@
-# A016 - Lacos II
+# Lacos II - Exercícios
 
 ### Setup do projeto no Git
 
